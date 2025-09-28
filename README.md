@@ -3,12 +3,12 @@
 Habit Tracker is a simple but functional iOS app designed to assist users in tracking and managing their daily habits.
 
 <p align="center">
-  <img src="screenshot/1.png" width="600" height="1200" title="">
-  <img src="screenshot/2.png" width="600" height="1200" title="">
-  <img src="screenshot/3.png" width="600" height="1200" title="">
-  <img src="screenshot/4.png" width="600" height="1200" title="">
-  <img src="screenshot/5.png" width="600" height="1200" title="">
-  <img src="screenshot/6.png" width="600" height="1200" title="">
+  <img src="screenshot/1.png" width="300" height="900" title="">
+  <img src="screenshot/2.png" width="300" height="900" title="">
+  <img src="screenshot/3.png" width="300" height="900" title="">
+  <img src="screenshot/4.png" width="300" height="900" title="">
+  <img src="screenshot/5.png" width="300" height="900" title="">
+  <img src="screenshot/6.png" width="300" height="900" title="">
 </p>
 
 ## Features
